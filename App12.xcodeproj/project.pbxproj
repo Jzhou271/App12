@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F6A7A572AFDE55700EA951C /* SecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6A7A562AFDE55700EA951C /* SecondPage.swift */; };
 		2FD9ECC82AFDCEF300549AD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD9ECC72AFDCEF300549AD9 /* AppDelegate.swift */; };
 		2FD9ECCA2AFDCEF300549AD9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD9ECC92AFDCEF300549AD9 /* SceneDelegate.swift */; };
 		2FD9ECCC2AFDCEF300549AD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FD9ECCB2AFDCEF300549AD9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F6A7A562AFDE55700EA951C /* SecondPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondPage.swift; sourceTree = "<group>"; };
 		2FD9ECC42AFDCEF300549AD9 /* App12.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App12.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FD9ECC72AFDCEF300549AD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FD9ECC92AFDCEF300549AD9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				2FD9ECC72AFDCEF300549AD9 /* AppDelegate.swift */,
 				2FD9ECC92AFDCEF300549AD9 /* SceneDelegate.swift */,
+				2F6A7A562AFDE55700EA951C /* SecondPage.swift */,
 				2FD9ECCB2AFDCEF300549AD9 /* ViewController.swift */,
 				2FD9ECCD2AFDCEF300549AD9 /* Main.storyboard */,
 				2FD9ECD02AFDCEF400549AD9 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F6A7A572AFDE55700EA951C /* SecondPage.swift in Sources */,
 				2FD9ECCC2AFDCEF300549AD9 /* ViewController.swift in Sources */,
 				2FD9ECC82AFDCEF300549AD9 /* AppDelegate.swift in Sources */,
 				2FD9ECCA2AFDCEF300549AD9 /* SceneDelegate.swift in Sources */,
